@@ -1,4 +1,5 @@
-# dos-attack-defense-hybrid-model
+## Title
+Hybrid DoS Attack Detection and Defense System using Pushback and Client Puzzle Mechanism
 
 ## Abstract
 This project presents a hybrid solution for detecting and mitigating Denial of Service (DoS) attacks by integrating pushback mechanisms and client puzzles. It simulates an ISP-level defense framework that filters malicious traffic before reaching target networks.
